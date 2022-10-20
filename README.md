@@ -18,7 +18,16 @@ blockquote,
 dl,
 dd {
   margin: 0;
+} 
+OR
+
+*{
+margin:0;
+padding:0;
+font:inherent
 }
+
+
 
 /* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
 ul[role='list'],
